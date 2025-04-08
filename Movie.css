@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(227, 227, 181);
+}
+.Movie{
+    display: flex;
+    justify-content: center;
+    border:2px solid black;
+    background-color: beige;
+}
+
+.Q{
+    width: 200px;
+    height: 20px;
+    padding:5px;   
+    
+   
+}
+
+.linked{
+    list-style:none;
+    background-color: rgb(152, 152, 123);
+    width: 200px;
+    padding: 5px;
+    ;
+}
